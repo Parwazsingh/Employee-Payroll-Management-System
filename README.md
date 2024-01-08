@@ -31,5 +31,3 @@ The Employee Payroll Management System is a comprehensive database solution desi
 - Geographic expansion.
 - Automated tax calculations and direct salary deposits.
 
-### Note
-This README is based on the provided project report and outlines the key components and setup instructions for the Employee Payroll Management System.
